@@ -12,6 +12,7 @@ export default function App() {
       <DummyData amount={3} />
       <QuickMenu />
       <DummyData amount={2} />
+      <DummyData amount={1} />
     </div>
   );
 }
